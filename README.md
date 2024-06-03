@@ -7,7 +7,8 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fmemes-gifs&psig=AOvVaw3DzTtDms2KSMxbWQ2TGXzO&ust=1717512022646000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiL7oXVv4YDFQAAAAAdAAAAABAE)
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4wNzlmOHZybWl5MXJkYXpzdnpsN3lsbDRwbjBrdXZyZmIxajNjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LE7HSWdlpWtBiLDSFu/giphy.gif)
 <!--
 **Eli1551/Eli1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
